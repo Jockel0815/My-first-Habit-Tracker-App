@@ -17,7 +17,6 @@ The Habit Tracker is a simple and efficient application designed to help users t
 1. **Clone the repository**:
     ```sh
     https://github.com/Jockel0815/My-first-Habit-Tracker-App.git
-    cd My-first-Habit-Tracker-App
     ```
 
 2. **Install dependencies**:
